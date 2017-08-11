@@ -13,3 +13,4 @@ Theoricatical references:
 * Mikolov, Tomas, Kai Chen, Greg Corrado, and Jeffrey Dean. [“Efficient Estimation of Word Representations in Vector Space”](http://arxiv.org/abs/1301.3781), arXiv Preprint arXiv:1301.3781, 2013
 * Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. [“Distributed Representations of Words and Phrases and Their Compositionality”](http://papers.nips.cc/paper/5021-distributed-representations), Advances in Neural Information Processing Systems, 3111–3119, 2013
 * Bonaccorso G., [Reuters-21578-Classification using Word2Vec and LSTM](https://github.com/giuseppebonaccorso/Reuters-21578-Classification)
+* Bonaccorso G., [Twitter Sentiment Analysis with Gensim Word2Vec and Keras Convolutional Networks](https://github.com/giuseppebonaccorso/twitter_sentiment_analysis_word2vec_convnet)
